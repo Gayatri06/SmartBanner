@@ -1,0 +1,12 @@
+<html>
+<head> 
+<h1> This code is for Smart_Banner+PBA </h1>
+</head>
+<bod>
+<h2>HTML Buttons</h2>
+<p>HTML buttons are defined with the button tag:</p>
+
+<button>Click me</button>
+
+</body>
+</html>
